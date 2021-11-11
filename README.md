@@ -7,11 +7,7 @@
 - [Requirements](#requirements)
 - [Getting started](#getting-started)
 - [TP1][TP1]
-- [TP2][TP2]
-- [TP3][TP3]
-- [Capstone ou Mini Projet ou QCM](#Capstone)
-- [Certification](#Certification)
-- [Moyenne des Tps DM](#Moyenne)
+-
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -28,10 +24,9 @@
 
 [ANACONDA]: https://www.anaconda.com/products/individual
 [Jup]: https://jupyter.org/
-[oct]: https://www.gnu.org/software/octave/index
+
 [TP1]: https://github.com/nevermind78/NUM_ANALYSIS/tree/master/TP1
-[TP2]: https://github.com/nevermind78/NUM_ANALYSIS/tree/master/TP2
-[TP3]: https://github.com/nevermind78/NUM_ANALYSIS/tree/main/TP3
+
 [cdi]: https://learn.datacamp.com/courses/writing-efficient-python-code
 [lcp]: https://learn.datacamp.com/courses/object-oriented-programming-in-python
 [fun]: https://learn.datacamp.com/courses/writing-functions-in-python
