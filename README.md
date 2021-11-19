@@ -25,7 +25,7 @@
 [ANACONDA]: https://www.anaconda.com/products/individual
 [Jup]: https://jupyter.org/
 
-[TP1]: https://github.com/ichrakbensaad1/NUM_ANALYSIS/blob/master/tp1.ipynb
+[TP1]: https://github.com/ichrakbensaad1/NUM_ANALYSIS/blob/master/Tp1.ipynb
 
 [cdi]: https://learn.datacamp.com/courses/writing-efficient-python-code
 [lcp]: https://learn.datacamp.com/courses/object-oriented-programming-in-python
