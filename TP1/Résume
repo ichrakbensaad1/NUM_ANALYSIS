@@ -1,1 +1,58 @@
+  Résolution d'équation f(x)=0 on utilisant trois méthodes :
+                                                                        1-méthode de dichotomique 
+                                                                        2- méthode de point fix 
+                                                                        3-méthode de newton
+1) Convergence
+‐ Linéaire: on gagne la même quantité de précision à chaque itéation.
+‐ Quadratique: on gagne le double de précision à chaque itéation.
+‐ Cubique: on gagne le triple de précision à chaque itéation.
 
+2) Résolution d’une équation f(x)=0
+a) Estimer graphiquement la racine. Tracer le graphe de la fonction et zoomer sur 
+les racines.
+b) Méthode de la dichotomie: [suite d’intervalles encadrant la racine]
+i)[a0,b0 ] = [a,b]
+ii)[an ,bn ](connu) => w = (an + bn )/2
+     f (an ).f (w) < 0 ⇒ [an +1,bn +1] = [an ,w]
+iii)f (an ).f (w) > 0 ⇒ [an +1,bn +1] = [w,bn ]
+    f (an ).f (w) = 0 ⇒ w = racine
+iv) Avantages : 
+        ‐ Convergence certaine vers la racine (si elle est unique sur 
+l’intervalle), si f est continue.
+   ‐ Pour une précision e, il faut faire n itération avec n >((ln (b − a)-ln(e))/ln2)
+
+(car l’intervalle après n itérations est de longueur ((b − a)/2n ).
+v) Inconvénients : 
+        ‐ Convergence linéaire (lente).
+        -Nécessité du changement de signe sur l’intervalle
+     
+d) Méthode du point fixe/d’itération:
+
+i) Choisir x1
+ii) Calculer xn +1 = g(xn ) (n=1,2,...)
+iii) Choisir g(x) tel que x=g(x).
+iv) Avantages:
+      ‐ Facile à mettre en oeuvre, g(x) qui converge rapidement n’est 
+souvent pas trop difficile  trouver.
+v) Inconvénients: 
+      ‐ Bien choisir g(x), tel que g(x)=x. Il faut parfois différents g(x) 
+pour trouver différentes racines d’une même équation.
+          ‐ Convergence si |g'(x0 )| <1  (vérifier graphiquement si graphe 
+de g’(x)<pente y=x). (divergence si g(x) pas bonne)
+          ‐ Convergence lente (si g(x) est valable).
+C) Méthode de Newton :
+
+i) Choisir x1 proche du zéro cherché.
+ii) Calculer: xn +1 = xn − (F(xn )/F'(xn )) (n=1,2,..) [avec F(x)=0 équation à résoudre].
+Ou approximation: 
+  xn +1 = xn − (h F(xn )/F(xn + h) − F(xn )) (n=1,2,... et h très petit).
+iii) Avantages: 
+      ‐ Converge quadratiquement si racine simple.
+      ‐ Méthode valable pour trouver zéros complexes. 
+iv) Inconvénients:
+          ‐ Converge linéairement si racine multiple.
+          ‐ Si racine multiple: F et F’ très petites => convergence très 
+lente.
+          ‐ Besoin de calculer la dérivée de la fonction.
+f) Arrêter l’algorithme quand l’écart entre deux solution xn et xn+1 est assez faible 
+(de l’ordre de 10‐k, avec k que l’on veut).
