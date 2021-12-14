@@ -27,7 +27,7 @@
 
 [TP1]: https://github.com/ichrakbensaad1/NUM_ANALYSIS/blob/master/Tp1.ipynb
 [TP2]: https://github.com/ichrakbensaad1/NUM_ANALYSIS/blob/master/TP-2 (3).ipynb
-[TP3]: https://github.com/ichrakbensaad1/NUM_ANALYSIS/blob/master/tp3
+[TP3]: https://github.com/ichrakbensaad1/NUM_ANALYSIS/blob/master/
 
 [cdi]: https://learn.datacamp.com/courses/writing-efficient-python-code
 [lcp]: https://learn.datacamp.com/courses/object-oriented-programming-in-python
