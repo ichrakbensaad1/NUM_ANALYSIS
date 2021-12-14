@@ -7,6 +7,8 @@
 - [Requirements](#requirements)
 - [Getting started](#getting-started)
 - [TP1][TP1]
+- [TP2][TP2]
+- [TP3][TP3]
 
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
