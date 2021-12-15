@@ -10,7 +10,9 @@
 - [TP2][TP2]
 - [TP3][TP3]
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ichrakbensaad1/NUM_ANALYSIS/master?labpath=TP-2%20(3).ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ichrakbensaad1/NUM_ANALYSIS/master?labpath=Tp1%20.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ichrakbensaad1/NUM_ANALYSIS/master?labpath=TP3.ipynb)
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Requirements
@@ -35,5 +37,4 @@
 [lcp]: https://learn.datacamp.com/courses/object-oriented-programming-in-python
 [fun]: https://learn.datacamp.com/courses/writing-functions-in-python
 [clb]:https://colab.research.google.com/notebooks/intro.ipynb
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ichrakbensaad1/NUM_ANALYSIS/master?labpath=TP-2%20(3).ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ichrakbensaad1/NUM_ANALYSIS/master?labpath=Tp1%20.ipynb)
+
