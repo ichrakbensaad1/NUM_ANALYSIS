@@ -56,3 +56,4 @@ lente.
           ‐ Besoin de calculer la dérivée de la fonction.
 f) Arrêter l’algorithme quand l’écart entre deux solution xn et xn+1 est assez faible 
 (de l’ordre de 10‐k, avec k que l’on veut).
+https://mybinder.org/v2/gh/ichrakbensaad1/NUM_ANALYSIS/master?labpath=Tp1%20.ipynb
