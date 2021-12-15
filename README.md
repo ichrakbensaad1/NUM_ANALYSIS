@@ -35,3 +35,4 @@
 [lcp]: https://learn.datacamp.com/courses/object-oriented-programming-in-python
 [fun]: https://learn.datacamp.com/courses/writing-functions-in-python
 [clb]:https://colab.research.google.com/notebooks/intro.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ichrakbensaad1/NUM_ANALYSIS/master?labpath=TP-2%20(3).ipynb)
