@@ -19,7 +19,7 @@
 
 * [ANACONDA For windows][ANACONDA] 
 * [ANACONDA For Linux][ANACONDA]
-* [Octave][oct]
+
 * [Jupyter][Jup]
 * [Googlecollabs][clb]
 
